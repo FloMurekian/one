@@ -1,7 +1,7 @@
 {
   "name": "one",
   "private": true,
-  "homepage": "https:/flomurekian.github.io/one/",
+  "homepage": "https:/flomurekian.github.io/one",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
